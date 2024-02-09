@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWPMathMasterTest", "SWPMathMasterTest\SWPMathMasterTest.csproj", "{B5C46E30-704C-4EFA-8C99-4443D0FF4FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C46E30-704C-4EFA-8C99-4443D0FF4FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C46E30-704C-4EFA-8C99-4443D0FF4FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C46E30-704C-4EFA-8C99-4443D0FF4FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C46E30-704C-4EFA-8C99-4443D0FF4FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15DE4CE-8DD7-43D3-A021-36EA0E13EA32}
+	EndGlobalSection
+EndGlobal
